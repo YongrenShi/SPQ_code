@@ -1,3 +1,5 @@
+## Author: Yongren Shi
+## Paper: Lynn, Freda B., Yongren Shi, and Kevin Kiley. "Intersectional Group Agreement on the Occupational Order.” Social Psychology Quarterly
 
 
 library(haven)
